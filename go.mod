@@ -1,3 +1,3 @@
-module example.com/m/v2
+module go-study
 
 go 1.22.12
